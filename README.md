@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @fevieira27
-- 🌱 I’m currently learning to design Garmin WatchFaces
+- ✨ My current skills are mostly Data Analysis related, like SQL, R, ACL, VBA
+- 🌱 I’m currently learning to design Garmin Watch Faces (using Monkey C language)
 
 <!---
 fevieira27/fevieira27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
