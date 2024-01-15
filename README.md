@@ -1,6 +1,6 @@
-<a href="https://www.instagram.com/fevieira2/">![MasterHead](DLR_sunset4.png)</a>
-
 # 👋 Hi, I’m @fevieira27
+
+<a href="https://www.instagram.com/fevieira2/">![MasterHead](DLR_sunset4.png)</a>
 
 - 💼 My skills are mostly Data Analytics related, like: **SQL**, **R**, **VBA**, **Deep Learning** and **Data Visualization**
   
