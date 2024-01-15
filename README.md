@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=fevieira27&abbreviated=true&color=d45B7d)
 
 <a href="https://github.com/fevieira27"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fevieira27&show=discussions_answered&show_icons=true&include_all_commits=true&hide=prs&theme=dracula&hide_border=true" alt="My GitHub Stats" /></a> <a href="https://github.com/fevieira27"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevieira27&theme=dracula&hide_border=true" alt="My Most Used Languages" /></a>
-<a href="https://github.com/fevieira27"><img align="center" src="https://github-profile-trophy.vercel.app/?username=fevieira27&show_icons=true&hide_border=true&include_all_commits=true&theme=dracula&no-frame=true&title=Joined2020,Experience,Stars,Commits,Repositories,Issues,Followers" alt="My Profile Trophies" /></a>
+<a href="https://github.com/fevieira27"><img align="center" src="https://github-profile-trophy.vercel.app/?username=fevieira27&show_icons=true&hide_border=true&include_all_commits=true&theme=dracula&no-frame=true&title=Joined2020,Experience,Stars,Commits,Repositories,Issues,Followers" alt="My Profile Trophies" /></a>![](https://hit.yhype.me/github/profile?user_id=60966475)
 
 <!---  merko
 &count_private=true
@@ -19,4 +19,4 @@
 fevieira27/fevieira27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://hit.yhype.me/github/profile?user_id=60966475)
+
