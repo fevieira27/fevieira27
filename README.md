@@ -2,7 +2,7 @@
 
 <a href="https://www.instagram.com/fevieira2/">![MasterHead](DLR_sunset4.png)</a>
 
-- 💼 My skills are mostly Data Analytics related, like: **SQL**, **R**, **VBA**, **Deep Learning** and **Data Visualization**
+- 💼 My skills are mostly Data Analytics related, like: **SQL**, **R**, **VBA**, **Data Visualization**, **Deep Learning** and **Generative AI**
   
 - 🌱 Also designing Garmin Watch Faces as a hobby (using Monkey C language)
 
